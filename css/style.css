@@ -69,14 +69,14 @@ img{
     border-radius: 15px;
 }
 #call:hover{
-    background-color: #0000ff;
+    background-color: #4d4d4d;
     transition-delay: 350ms;
 }
 
 footer{
     width: 100%;
-    background-color: #00ff0f;
-    color: #00fff0;
+    background-color:  #4d4d4d;
+    color:  #4d4d4d;
     padding-bottom: 100px;
     margin-bottom: 30px;
 }
